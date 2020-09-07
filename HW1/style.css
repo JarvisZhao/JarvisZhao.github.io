@@ -61,6 +61,11 @@ p.mid {
 	padding-right:20px;
 }
 
+img {
+	
+	border-right: 25px solid #a4e1e9;
+}
+
 body {
 	margin-left: 60px;
 
