@@ -57,6 +57,11 @@ p.mid {
 	color:#0639bf;
 }
 
+hr {
+	margin-left:-200px;
+	height:3px;
+}
+
 .last {
 	padding-right:20px;
 }
